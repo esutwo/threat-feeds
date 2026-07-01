@@ -1,1 +1,15 @@
-# Add URLs here
+#########################################################
+#
+# FortiMail Threat Feed
+#
+# Use the below link as reference for valid formats:
+#   https://docs.fortinet.com/document/fortimail-cloud/1.0.0/fortimail-cloud-administration-guide/109024/configuring-a-threat-feed
+#
+# When adding entries, please add a comment with the name and date of the addition.
+# For example:
+#     # 2026/05/21 - John Doe
+#     *.example.com/*
+#
+#########################################################
+
+
