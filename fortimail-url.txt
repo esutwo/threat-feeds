@@ -16,3 +16,7 @@ https://script.google.com/macros/s/AKfycbwol8whJvEbnwpxEUGf7ei5j2QqC3Ab-2U6-T7-_
 
 # 2026/07/23 - Sterling Reeves
 *.fervano.vu/lafz*
+
+
+# 2026/8/8 - Sterling Reeves
+https://script.google.com/macros/s/AKfycbzC4PgAfV-deElQs9KJ7Hm4m01jxlvirJwp64G17MK8ujB8pfv8vnwO-K3t-iS-LKoa/exec
