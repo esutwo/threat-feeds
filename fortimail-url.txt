@@ -50,3 +50,7 @@ http://vaultedd.pages.dev/
 
 # 2026/10/12 - Sterling Reeves
 https://raw.githubusercontent.com/blueedgetechno/*
+
+#2026/11/13 - Michael Merryman - Vibe Code Platform failed eval and determined as risk
+https://teacherhive.app 
+https://apphive.us
